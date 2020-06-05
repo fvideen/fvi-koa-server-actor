@@ -1,0 +1,7 @@
+{
+    "server": {
+        "name": "test-koa-server-actor",
+        "port": "4000",
+        "version": "1.0.0"
+    }
+}
