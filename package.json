@@ -33,7 +33,7 @@
         "koa-favicon": "^2.1.0"
     },
     "devDependencies": {
-        "fvi-actor-system": "^0.0.1",
+        "fvfvi-actor-system": "^0.0.1",
         "chai": "^4.2.0",
         "chai-http": "^4.3.0",
         "grunt": "^1.0.4",

@@ -2,7 +2,7 @@
 
 const chai = require('chai')
 
-const actors = require('i-actor-system')
+const actors = require('fvi-actor-system')
 const utils = require('fvi-node-utils')
 
 const app = require('../app')

@@ -16,7 +16,7 @@
 
 Ator que implementa um servidor http utilizando a lib [fvi-koa-server](https://console.aws.amazon.com/codesuite/codecommit/repositories/fvi-koa-server/browse?region=us-east-1). Esta biblioteca necessita como parâmetros iniciais um **ator pai** e um objeto de configuração que será detalhado abaixo. 
 
-Esta biblioteca foi desenvolvida para ser utilizada em conjunto com a biblioteca [i-actor-system](https://console.aws.amazon.com/codesuite/codecommit/repositories/i-actor-system/browse?region=us-east-1) ou com a biblioteca [comedy.js](https://github.com/untu/comedy).
+Esta biblioteca foi desenvolvida para ser utilizada em conjunto com a biblioteca [fvi-actor-system](https://console.aws.amazon.com/codesuite/codecommit/repositories/fvi-actor-system/browse?region=us-east-1) ou com a biblioteca [comedy.js](https://github.com/untu/comedy).
 
 ## Configuração
 
@@ -63,7 +63,7 @@ const config = convict({
 ## Mode de Usar
 
 ```javascript
-const actors = require('i-actor-system')
+const actors = require('fvi-actor-system')
 const utils  = require('fvi-node-utils')
 
 const severActor = require('fvi-koa-server-actor')
