@@ -5,7 +5,7 @@ const chai = require('chai')
 const actors = require('fvi-actor-system')
 const utils = require('fvi-node-utils')
 
-const app = require('../app')
+const app = require('../src')
 
 const config = utils.config({
     server: {
