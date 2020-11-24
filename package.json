@@ -26,8 +26,8 @@
     "license": "MIT",
     "homepage": "https://github.com/salespaulo/fvi-koa-server-actor.git/README.md",
     "dependencies": {
-        "fvi-node-utils": "^0.0.10",
-        "fvi-koa-server": "^0.0.5",
+        "fvi-node-utils": "^0.1.0",
+        "fvi-koa-server": "^0.0.6",
         "koa-mount": "^4.0.0",
         "koa-router": "^10.0.0",
         "koa-static": "^5.0.0",
